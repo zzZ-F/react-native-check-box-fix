@@ -1,4 +1,7 @@
-# react-native-check-box
+# react-native-check-box-fix
+react-native-check-box-fix copy [react-native-check-box](https://github.com/crazycodeboy/react-native-check-box) and fix Added setState to save checked state of checkbox
+
+
 
 [ ![release](https://img.shields.io/github/release/crazycodeboy/react-native-check-box.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/react-native-check-box/releases)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/react-native-check-box/pulls)
