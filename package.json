@@ -1,14 +1,17 @@
 {
   "name": "react-native-check-box-fix",
-  "version": "2.1.0",
-  "description": "Checkbox component for react native, it works on iOS and Android.",
+  "version": "1.0.0",
+  "description": "this project is react-native-check-box to fix bug \"Added setState to save checked state of checkbox\" to change. Original project link: https://github.com/crazycodeboy/react-native-check-box .",
   "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soloFZZ/react-native-check-box-fix.git"
+    "url": "git+ssh://git@github.com/soloFZZ/react-native-check-box-fix.git"
   },
   "keywords": [
     "react-native",
@@ -21,16 +24,10 @@
     "ios",
     "android"
   ],
-  "author": "crazycodeboy",
-  "license": "MIT",
+  "author": "iblvting",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/soloFZZ/react-native-check-box-fix/issues"
-  },
-  "dependencies": {
-    "prop-types": "^15.5.7"
-  },
-  "peerDependencies": {
-    "react-native": ">=0.20.0"
   },
   "homepage": "https://github.com/soloFZZ/react-native-check-box-fix#readme"
 }
