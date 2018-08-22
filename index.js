@@ -54,7 +54,7 @@ export default class CheckBox extends Component {
     static getDerivedStateFromProps(nextProps, prevState) {
         if (prevState.isChecked !== nextProps.isChecked) {
             return {
-                isChecked: nextProps.isChecked
+                isChecked: !nextProps.isChecked
             };
         }
         return null;
